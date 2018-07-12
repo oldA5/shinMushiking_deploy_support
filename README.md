@@ -1,2 +1,2 @@
 # shinMushiking_deploy_support
-a supporter of you shin-Mushiking card game
+a supporter of your shin-Mushiking card game
